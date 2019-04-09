@@ -9,3 +9,7 @@ Welcome to the archive of my arrangements and original compositions.
 ## Just Add Magic Theme (Original)
 
 [MXL](https://github.com/micahlt/musica/raw/master/files/sheets/Just_Add_Magic.mxl)
+
+## It Begins (Original)
+
+[MXL](https://github.com/micahlt/musica/raw/master/files/sheets/It_Begins.mxl)
